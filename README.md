@@ -12,9 +12,9 @@ Composed of 3 main types of learning methods:
     * Regression
  
  2. **Unsupervised Learning**: occurs when an algorithm learns from simple examples, without any associated response, leaving it up to the algorithm to determine the data patterns on its own.
-   * Clustering
-   * Segmentation
-   * Dimensionality Reduction
+     * Clustering
+     * Segmentation
+     * Dimensionality Reduction
    
 3. **Reinforcement Learning**: It's like learning by trial and error. Mistakes help to learn because they have a large penalty associated with them (cost, time wasted, and so on), teaching that a particular course of action is less likely to succeed than others.
    * Recommender Systems
