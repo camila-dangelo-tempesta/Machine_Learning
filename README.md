@@ -4,6 +4,12 @@
 
 Machine Learning is a subset of Artificial Intelligence (AI), which performs a data analysis method that automates the construction of analytical models, being able to perform predictive analysis faster than any human would be able to do.
 
+<div align="center">
+<p float="left">
+    <img src="/images/ml.png" width="1000" height="600"/>
+</p>
+</div>
+
 Composed of 3 main types of learning methods:
 
 1. **Supervised Learning**: occurs when an algorithm learns from sample historical data, with inputs (inputs) and possible outputs (outputs), which may consist of quantitative or qualitative values, in order to predict the correct answer when receiving new data.
@@ -21,11 +27,6 @@ Composed of 3 main types of learning methods:
    * Reward Systems
    * Decision Process
 
-<div align="center">
-<p float="left">
-    <img src="/images/" width="500" height="500"/>
-</p>
-</div>
 
 ## 1. Challenge
 
