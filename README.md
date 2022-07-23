@@ -6,7 +6,7 @@ Machine Learning is a subset of Artificial Intelligence (AI), which performs a d
 
 <div align="center">
 <p float="left">
-    <img src="/images/ml.png" width="1000" height="600"/>
+    <img src="/images/ml.png" width="750" height="500"/>
 </p>
 </div>
 
@@ -41,6 +41,13 @@ It is a practical laboratory with the objective of demonstrating, in a clear and
 | **Lab_01**    | **Linear Regression**  | Supervised Learning (Continuous)         | Forecasting hospital expenses      |
 | **Lab_02**    | **Classification**     | Supervised Learning (Category)           |Predicting the occurrence of cancer |
 
+## 3. Pratices
+
+|               | **Model**              | **Scopo**                                                            | 
+|:-------------:|:----------------------:|:---------------------------------------------------------------------|
+| **Lab_01**    | **Linear Regression**  | Predict student grades based on various metrics                      | 
+| **Lab_02**    | **Neural networks**    | Forecast of the MEDV (Median Value of Occupancy of Houses).          |
+| **Lab_03**    | **SVM**                | Prediction of character numbers from the given dataset               |
 
 ***
 Made By **Camila D'Angelo**
